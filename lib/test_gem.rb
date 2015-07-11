@@ -2,6 +2,6 @@ require "test_gem/version"
 
 module TestGem
   def self.greet
-    "Hello World"
+    "Hello World!"
   end
 end
